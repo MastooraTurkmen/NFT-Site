@@ -38,7 +38,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ### _Desktop Version_
 
-![Alt text](Desktop-1.png)
+![Alt text](./screenshots/Desktop-1.png)
 
 ![Alt text](Desktop-2.png)
 
