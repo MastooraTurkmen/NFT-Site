@@ -26,7 +26,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ### _Mobile Version_
 
-![Alt text](Mobile-1.png)
+![Alt text](./screenshots/Mobile-1.png)
 
 ![Alt text](Mobile-2.png)
 
