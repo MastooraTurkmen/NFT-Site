@@ -50,5 +50,6 @@ Head over to https://vitejs.dev/ to learn more about using vite
 # Clone this repository
 $ gh repo clone MastooraTurkmen/NFT-Site
 
-
+# Go inside the repository
+$ cd nft-site
 ```
