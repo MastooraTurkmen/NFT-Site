@@ -34,7 +34,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ![Alt text](./screenshots/Mobile-4.png)
 
-![Alt text](Mobile-5.png)
+![Alt text](./screenshots/Mobile-5.png)
 
 ### _Desktop Version_
 
