@@ -21,6 +21,8 @@ Head over to https://vitejs.dev/ to learn more about using vite
 # About this Site
 
 > A simple site for selling NFT shoes which is adorable and wonderful.
+> Wildly Expensive JPEGs
+> https://wonderful-nft-site-project.netlify.app/
 
 ## ScreenShots
 
