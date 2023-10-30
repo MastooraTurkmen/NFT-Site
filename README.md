@@ -17,3 +17,7 @@ $ pnpm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about using vite
+
+# About this Site
+
+> A simple site of selling NFT shoes which is adorable and wonderful.
