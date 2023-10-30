@@ -20,11 +20,11 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 # About this Site
 
-> A simple site of selling NFT shoes which is adorable and wonderful.
+> A simple site for selling NFT shoes which is adorable and wonderful.
 
-## ScreenShotes
+## ScreenShots
 
-### _Mobile Versain_
+### _Mobile Version_
 
 ![Alt text](Mobile-1.png)
 
