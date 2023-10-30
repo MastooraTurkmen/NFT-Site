@@ -22,9 +22,9 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 > A simple site of selling NFT shoes which is adorable and wonderful.
 
-## ScreenShotes
+## ScreenShots
 
-### _Mobile Versain_
+### _Mobile Version_
 
 ![Alt text](Mobile-1.png)
 
@@ -36,8 +36,10 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ![Alt text](Mobile-5.png)
 
-### _Desktop Versain_
+### _Desktop Version_
 
 ![Alt text](Desktop-1.png)
 
 ![Alt text](Desktop-2.png)
+
+![Alt text](Desktop-3.png)
