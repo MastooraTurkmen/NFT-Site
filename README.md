@@ -30,7 +30,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ![Alt text](./screenshots/Mobile-2.png)
 
-![Alt text](Mobile-3.png)
+![Alt text](./screenshots/Mobile-3.png)
 
 ![Alt text](Mobile-4.png)
 
