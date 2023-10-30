@@ -42,4 +42,4 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ![Alt text](./screenshots/Desktop-2.png)
 
-![Alt text](Desktop-3.png)
+![Alt text](./screenshots/Desktop-3.png)
