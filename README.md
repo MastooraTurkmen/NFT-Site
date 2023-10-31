@@ -59,3 +59,5 @@ $ cd nft-site
 
 
 ## Languages and Tools are used
+
+1. **Languages**
