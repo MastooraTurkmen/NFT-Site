@@ -53,3 +53,9 @@ $ gh repo clone MastooraTurkmen/NFT-Site
 # Go inside the repository
 $ cd nft-site
 ```
+
+
+-----
+
+
+## Languages and Tools are used
