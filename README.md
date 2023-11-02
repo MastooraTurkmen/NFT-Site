@@ -18,11 +18,11 @@
 
 ### _Desktop Version_
 
-![Alt text](./screenshots/Desktop-1.png)
+![Desktop Screenshots](./screenshots/Desktop-1.png)
 
-![Alt text](./screenshots/Desktop-2.png)
+![Desktop Screenshots](./screenshots/Desktop-2.png)
 
-![Alt text](./screenshots/Desktop-3.png)
+![Desktop Screenshots](./screenshots/Desktop-3.png)
 
 
 ## Quick start:
