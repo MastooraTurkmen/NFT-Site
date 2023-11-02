@@ -76,3 +76,9 @@ $ cd nft-site
     + [Netlify](https://github.com/topics/netlify)
 
 
+-----
+
+
+## Deployment📥
+
+
