@@ -6,15 +6,15 @@
 
 ### _Mobile Version_
 
-![Alt text](./screenshots/Mobile-1.png)
+![Mobile Screenshots](./screenshots/Mobile-1.png)
 
-![Alt text](./screenshots/Mobile-2.png)
+![Mobile Screenshots](./screenshots/Mobile-2.png)
 
-![Alt text](./screenshots/Mobile-3.png)
+![Mobile Screenshots](./screenshots/Mobile-3.png)
 
-![Alt text](./screenshots/Mobile-4.png)
+![Mobile Screenshots](./screenshots/Mobile-4.png)
 
-![Alt text](./screenshots/Mobile-5.png)
+![Mobile Screenshots](./screenshots/Mobile-5.png)
 
 ### _Desktop Version_
 
