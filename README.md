@@ -32,6 +32,7 @@
 ```
 $ npm install
 $ npm start
+$ npm run dev
 ```
 
 2. _pnpm_
