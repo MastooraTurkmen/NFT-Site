@@ -93,3 +93,4 @@ $ cd nft-site
 
 
 ## Author 👩🏻‍💻 
+**Mastoora Turkmen**  
