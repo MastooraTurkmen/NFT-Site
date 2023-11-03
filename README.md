@@ -95,3 +95,4 @@ $ cd nft-site
 ## Author 👩🏻‍💻 
 **Mastoora Turkmen**  
 [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
+[Github](https://github.com/MastooraTurkmen/) 
