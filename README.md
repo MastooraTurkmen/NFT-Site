@@ -25,14 +25,6 @@
 ![Desktop Screenshots](./screenshots/Desktop-3.png)
 
 
-2. _pnpm_
-
-```
-$ pnpm install
-$ pnpm start
-$ pnpm run dev
-```
-
 Head over to https://vitejs.dev/ to learn more about using vite
 
 
