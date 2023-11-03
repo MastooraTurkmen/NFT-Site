@@ -46,6 +46,7 @@ $ cd nft-site
     + [HTML5](https://github.com/topics/html5)
     + [CSS](https://github.com/topics/css)
     + [CSS3](https://github.com/topics/css3)
+    + [Flexbox-css](https://github.com/topics/flexbox-css)
 
 2. **Tools** 
     + [Chrome](https://github.com/topics/chrome)
