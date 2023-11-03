@@ -89,3 +89,7 @@ $ cd nft-site
 7. Now your project is Live.
 
 
+-----
+
+
+## Author 👩🏻‍💻 
