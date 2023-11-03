@@ -46,13 +46,13 @@ $ cd nft-site
     + [HTML5](https://github.com/topics/html5)
     + [CSS](https://github.com/topics/css)
     + [CSS3](https://github.com/topics/css3)
-    + [Firefox](https://github.com/topics/firefox)
 
 2. **Tools** 
     + [Chrome](https://github.com/topics/chrome)
     + [VSCode](https://github.com/topics/vscode)
     + [Figma](https://github.com/topics/figma)
     + [Netlify](https://github.com/topics/netlify)
+    + [Firefox](https://github.com/topics/firefox)
 
 
 -----
