@@ -25,16 +25,6 @@
 ![Desktop Screenshots](./screenshots/Desktop-3.png)
 
 
-## Quick start:
-
-1. _npm_
-
-```
-$ npm install
-$ npm start
-$ npm run dev
-```
-
 2. _pnpm_
 
 ```
