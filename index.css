@@ -114,14 +114,6 @@ header,
     margin: 0 auto 2em;
 }
 
-/*
-  Challenge: Wrap the feature-item divs with flexbox
-    1. Each .feature-item should grow from an initial main size of 220px
-    2. Allow the items inside .section-two-image-container to
-       wrap onto multiple lines
-    3. Apply a gap between each .feature-item
-*/
-
 .section-two-image-container {
     display: flex;
     flex-wrap: wrap;
