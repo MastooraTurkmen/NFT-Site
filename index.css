@@ -84,6 +84,25 @@ a:active {
     background-color: #f3e885;
 }
 
+
+/* ----- NAVIGATION ----- */
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.125rem;
+    padding: 0.85em 0;
+    display: block;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+
+
 /* ----- LAYOUT ----- */
 
 header, 
@@ -134,21 +153,6 @@ footer {
     color: #5f29a3;
 }
 
-/* ----- NAVIGATION ----- */
-
-nav a {
-    color: #fff;
-    text-decoration: none;
-    font-size: 1.125rem;
-    padding: 0.85em 0;
-    display: block;
-}
-
-ul {
-    padding: 0;
-    margin: 0;
-    list-style-type: none;
-}
 
 /* ----- MEDIA QUERIES ----- */
 
