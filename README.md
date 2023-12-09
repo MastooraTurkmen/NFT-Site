@@ -4,7 +4,7 @@
 
 ## ScreenShots
 
-### _Mobile Version_
+### _Mobile Version_ 📱
 
 ![Mobile Screenshots](./screenshots/Mobile-1.png)
 
@@ -16,7 +16,7 @@
 
 ![Mobile Screenshots](./screenshots/Mobile-5.png)
 
-### _Desktop Version_
+### _Desktop Version_ 💻
 
 ![Desktop Screenshots](./screenshots/Desktop-1.png)
 
@@ -41,14 +41,14 @@ $ cd nft-site
 
 ## Languages and Tools are used
 
-1. **Languages**
+1. **Languages** 🗣
     + [HTML](https://github.com/topics/html)
     + [HTML5](https://github.com/topics/html5)
     + [CSS](https://github.com/topics/css)
     + [CSS3](https://github.com/topics/css3)
     + [Flexbox-css](https://github.com/topics/flexbox-css)
 
-2. **Tools** 
+2. **Tools** 🔨
     + [Chrome](https://github.com/topics/chrome)
     + [VSCode](https://github.com/topics/vscode)
     + [Figma](https://github.com/topics/figma)
@@ -60,9 +60,9 @@ $ cd nft-site
 
 
 ## Deployment📥
-1. How to deploy our project to netlify site?
+1. How to deploy our project to the Netlify site?
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
-3. Go to Netlify site and select Add a new site.
+3. Go to the Netlify site and select Add a new site.
 4. From there select **_Deploy with Github_**.
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for NFT-Site_** and then select the **_Deploy NFT-Site_** Button.
